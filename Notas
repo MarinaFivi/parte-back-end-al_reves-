@@ -1,0 +1,10 @@
+git config --list
+git config --global user.email""
+git config --global.user.name ""
+
+para levantar en node en la carpeta del proyecto ng serve. Si te bajas lo suyo como no sube la carpeta que ocupa mucho tienes que
+instalar con npm install primero.
+ng serve --port xxxx
+ng g c cmp-....
+ng g p pipe...
+
